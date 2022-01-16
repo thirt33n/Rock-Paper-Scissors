@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
 
-Play Rock-Paper-Scissors in your against your computer.
+Play Rock-Paper-Scissors in your browser  against your computer.
